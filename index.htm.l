@@ -4,20 +4,15 @@
     <title>구글 애널리틱스 첫 실습!</title>
     <meta charset="UTF-8" />
     <!-- 여기 아래에 복사 붙여넣기 합니다. -->
-    <!-- Google tag (gtag.js) -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-ZRNSHR1H3N"
-    ></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5V8S0QJRKL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-      gtag("config", "G-ZRNSHR1H3N");
-    </script>
+  gtag('config', 'G-5V8S0QJRKL');
+</script>
     <!-- 여기 위에 복사 붙여넣기 합니다. -->
   </head>
   <body>
